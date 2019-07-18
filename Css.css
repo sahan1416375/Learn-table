@@ -1,0 +1,27 @@
+
+.main{
+}
+.cls1{
+	background-color: red;
+	width: 300px;
+	height: 300px;
+	float: left;
+	
+}
+.cls2{
+	background-color: yellow;
+	width: 300px;
+	height: 300px;
+	float: left;
+}
+.cls3{
+	background-color: green;
+	width: 300px;
+	height: 300px;
+	float: left;
+}
+.cls4{
+	background-color: black;
+	width: 900px;
+	height: 300px;
+}
